@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BandNameGenerator",
+            "request": "launch",
+            "mainClass": "BandNameGenerator",
+            "projectName": "100_project_goal-java-_d3f6f335"
+        },
+        {
+            "type": "java",
+            "name": "BillSplitter",
+            "request": "launch",
+            "mainClass": "BillSplitter",
+            "projectName": "100_project_goal-java-_d3f6f335"
+        },
+        {
+            "type": "java",
+            "name": "MysteryIsland",
+            "request": "launch",
+            "mainClass": "MysteryIsland",
+            "projectName": "100_project_goal-java-_d3f6f335"
+        }
+    ]
+}

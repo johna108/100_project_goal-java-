@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main {
+class BandNameGenerator {
     public static void main(String[] args) {
         System.out.println("welcome to band name generator");
         Scanner sc = new Scanner(System.in);
@@ -10,5 +10,8 @@ class Main {
         System.out.print("Name of Your first pet: ");
         String Pet_name = sc.nextLine();
         System.out.println("Your new band name is " + city_name +" " + Pet_name);
+        sc.close();
+        
+    
     }
 }

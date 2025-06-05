@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-class Main {
+class MysteryIsland {
     public static void main(String[] args) {
         System.out.println("""
                                                     ____
@@ -58,5 +58,6 @@ class Main {
         } else {
             System.out.println("Please choose a valid option.");
         }
+        sc.close();
     }
 }

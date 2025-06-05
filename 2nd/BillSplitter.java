@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-class Main {
+class BillSplitter {
     public static void main(String[] args) {
         System.out.println("welcome to BillSplitter");
         Scanner sc = new Scanner(System.in);
@@ -11,6 +11,7 @@ class Main {
         int b = sc.nextInt();
         int splitter = a/b;
         System.out.println("Each should pay: "+splitter +"$");
+        sc.close();
 
     }
 }
