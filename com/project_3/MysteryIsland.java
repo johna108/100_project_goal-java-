@@ -1,4 +1,4 @@
-
+package project_3;
 import java.util.Scanner;
 
 class MysteryIsland {

@@ -4,7 +4,27 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "RockPaperScissors",
+            "request": "launch",
+            "mainClass": "project_4.RockPaperScissors",
+            "projectName": "100_project_goal-java-_d3f6f335"
+        },
+        {
+            "type": "java",
+            "name": "BillSplitter",
+            "request": "launch",
+            "mainClass": "project_2.BillSplitter",
+            "projectName": "100_project_goal-java-_d3f6f335"
+        },
+        {
+            "type": "java",
+            "name": "PasswordGenerator",
+            "request": "launch",
+            "mainClass": "project_5.PasswordGenerator",
+            "projectName": "100_project_goal-java-_d3f6f335"
+        },
         {
             "type": "java",
             "name": "Current File",
@@ -15,21 +35,21 @@
             "type": "java",
             "name": "BandNameGenerator",
             "request": "launch",
-            "mainClass": "BandNameGenerator",
+            "mainClass": "project_1.BandNameGenerator",
             "projectName": "100_project_goal-java-_d3f6f335"
         },
         {
             "type": "java",
             "name": "BillSplitter",
             "request": "launch",
-            "mainClass": "BillSplitter",
+            "mainClass": "project_2.",
             "projectName": "100_project_goal-java-_d3f6f335"
         },
         {
             "type": "java",
             "name": "MysteryIsland",
             "request": "launch",
-            "mainClass": "MysteryIsland",
+            "mainClass": "project_3.MysteryIsland",
             "projectName": "100_project_goal-java-_d3f6f335"
         }
     ]
